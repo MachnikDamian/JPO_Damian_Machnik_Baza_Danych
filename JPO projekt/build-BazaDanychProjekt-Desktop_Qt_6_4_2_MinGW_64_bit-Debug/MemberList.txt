@@ -1,0 +1,9 @@
+Adam Nowak 21 Male Master 
+Mikołaj Kowalski 25 Male Amateur 
+Katarzyna Malik 32 Female Begginer 
+Małgorzata Nowak 18 Female Master 
+Kacper Kowalski 24 Male Proffesional 
+Mikołaj Fabiański 23 Male Proffesional 
+Grzegorz Juźwiak 31 Male Begginer 
+Andrzej Mucha 16 Male Amateur 
+Joanna Jasek 26 Female Begginer 
